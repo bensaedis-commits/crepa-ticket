@@ -1,0 +1,18 @@
+{
+  "ownerIDs": ["1275532574344740957", "921428867028226118", "1043050804703154266"],
+  "supportRole": "1548732018844762222",
+  "angelsRole": "1548732312764682301",
+  "staffRole": "1548733964577939466",
+  "reportRole": "1548726626609668166",
+  "generalCategory": "1548734401787985971",
+  "angelsCategory": "1548734893893095586",
+  "staffCategory": "1548734999174451372",
+  "reportCategory": "1548734607934095392",
+  "generalEmoji": "1548744308243308554",
+  "angelsEmoji": "1548744082023522424",
+  "staffEmoji": "1548744498954379365",
+  "reportEmoji": "1548744932414718084",
+  "embedColor": "#FF0000",
+  "serverName": "CREPA",
+  "banner": "./images/banner.gif"
+}

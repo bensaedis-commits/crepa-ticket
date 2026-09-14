@@ -1,0 +1,19 @@
+{
+  "name": "crepa-ticket",
+  "version": "1.0.0",
+  "description": "CREPA Ticket Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "author": "CREPA",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.21.0",
+    "dotenv": "^17.2.1"
+  }
+}
